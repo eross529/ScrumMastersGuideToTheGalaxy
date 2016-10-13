@@ -7,7 +7,7 @@ In 1968 Mel Conway observed:
 
 Bascially this comes into play when want change your architecture of your software, you also have to change your orginizational structure. 
 
-Conway's Law is talked about a lot in Continous Delivery nad DevOps.
+Conway's Law is talked about a lot in Continous Delivery and DevOps.
 
 Original Article:
 http://www.melconway.com/Home/Committees_Paper.html
